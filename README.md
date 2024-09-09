@@ -14,3 +14,15 @@ npm create vite@latest my-vue-app -- --template vue
 ```
 npm run serve
 ```
+## Compiles and minifies for production
+```
+npm run build
+```
+
+## Lints and fixes files
+```
+npm run lint
+```
+
+# Live
+See: https://realproject.pages.dev/
