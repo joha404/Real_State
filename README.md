@@ -1,8 +1,8 @@
 # Real State
-## This website make by vue js. This website make fully full responsive by Bootstrap 5. 
+ This website make by vue js. This website make fully full responsive by Bootstrap 5. 
 
 
-# Project Setup
+## Project Setup
 ```
 npm install
 ```
